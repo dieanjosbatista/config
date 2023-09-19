@@ -1,0 +1,23 @@
+
+@import '@tabler/core/dist/css/tabler.min.css';
+@import 'sweetalert2/dist/sweetalert2.min.css';
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+
+
+#pages-container {
+    min-height: 101vh;
+}
+
+#nprogress .bar{
+    z-index: 9999 !important;
+}
+
+.v-toast__text {
+    font-weight: bold;
+    color: white;
+}
+
+.v-toast {
+    z-index: 9999 !important;
+}
+
